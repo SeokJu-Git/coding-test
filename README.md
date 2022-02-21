@@ -7,3 +7,4 @@
 - [5. 콜라츠 추측](https://github.com/SeokJu-Git/prepare-a-coding-test/blob/main/number_05.py)
 - [6. 직사각형 별찍기](https://github.com/SeokJu-Git/prepare-a-coding-test/blob/main/number_06.py)
 - [7. 하샤드 수](https://github.com/SeokJu-Git/coding-test/blob/main/number_07.py)
+- [8. 핸드폰 번호 가리기]()
