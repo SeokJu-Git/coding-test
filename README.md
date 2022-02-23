@@ -9,3 +9,4 @@
 - [7. 하샤드 수](https://github.com/SeokJu-Git/coding-test/blob/main/number_07.py)
 - [8. 핸드폰 번호 가리기](https://github.com/SeokJu-Git/coding-test/blob/main/number_08.py)
 - [9. 내적](https://github.com/SeokJu-Git/coding-test/blob/main/number_09.py)
+- [10. 완주하지 못한 선수](https://github.com/SeokJu-Git/coding-test/blob/main/number_10.py)
