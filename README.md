@@ -11,3 +11,4 @@
 - [9. 내적](https://github.com/SeokJu-Git/coding-test/blob/main/number_09.py)
 - [10. 완주하지 못한 선수](https://github.com/SeokJu-Git/coding-test/blob/main/number_10.py)
 - [11. 2016년](https://github.com/SeokJu-Git/coding-test/blob/main/number_11.py)
+- [12. 약수의 개수와 덧셈](https://github.com/SeokJu-Git/coding-test/blob/main/number_12.py)
