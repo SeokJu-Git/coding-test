@@ -15,4 +15,4 @@
 - [13. 가운데 글자 가져오기](https://github.com/SeokJu-Git/coding-test/blob/main/number_13.py)
 - [14. K번째수](https://github.com/SeokJu-Git/coding-test/blob/main/number_14.py)
 - [15. 문자열 내 p와 y의 개수](https://github.com/SeokJu-Git/coding-test/blob/main/number_15.py)
-- [16. 나머지가 1이 되는 수 찾기]()
+- [16. 나머지가 1이 되는 수 찾기](https://github.com/SeokJu-Git/coding-test/blob/main/number_16.py)
