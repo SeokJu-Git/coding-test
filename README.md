@@ -1,4 +1,4 @@
-### Preparing for coding test.
+### 프로그래머스 - 코딩테스트 연습
 
 - [1. 평균 구하기](https://github.com/SeokJu-Git/prepare-a-coding-test/blob/main/number_01.py)
 - [2. 행렬의 덧셈](https://github.com/SeokJu-Git/prepare-a-coding-test/blob/main/number_02.py)
