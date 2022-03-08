@@ -19,4 +19,4 @@
 - [17. 로또의 최고 순위와 최저 순위](https://github.com/SeokJu-Git/coding-test/blob/main/number_17.py)
 - [18. 음양 더하기](https://github.com/SeokJu-Git/coding-test/blob/main/number_18.py)
 - [19. 체육복](https://github.com/SeokJu-Git/coding-test/blob/main/number_19.py)
-- [20. 실패율]()
+- [20. 실패율](https://github.com/SeokJu-Git/coding-test/blob/main/number_20.py)
