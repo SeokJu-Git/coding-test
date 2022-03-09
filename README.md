@@ -20,4 +20,4 @@
 - [18. 음양 더하기](https://github.com/SeokJu-Git/coding-test/blob/main/number_18.py)
 - [19. 체육복](https://github.com/SeokJu-Git/coding-test/blob/main/number_19.py)
 - [20. 실패율](https://github.com/SeokJu-Git/coding-test/blob/main/number_20.py)
-- [21. 모의고사]()
+- [21. 모의고사](https://github.com/SeokJu-Git/coding-test/blob/main/number_21.py)
