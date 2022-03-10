@@ -21,3 +21,4 @@
 - [19. 체육복](https://github.com/SeokJu-Git/coding-test/blob/main/number_19.py)
 - [20. 실패율](https://github.com/SeokJu-Git/coding-test/blob/main/number_20.py)
 - [21. 모의고사](https://github.com/SeokJu-Git/coding-test/blob/main/number_21.py)
+- [22. 두 개 뽑아서 더하기](https://github.com/SeokJu-Git/coding-test/blob/main/number_22.py)
