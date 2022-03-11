@@ -23,4 +23,4 @@
 - [21. 모의고사](https://github.com/SeokJu-Git/coding-test/blob/main/number_21.py)
 - [22. 두 개 뽑아서 더하기](https://github.com/SeokJu-Git/coding-test/blob/main/number_22.py)
 - [23. 부족한 금액 계산하기](https://github.com/SeokJu-Git/coding-test/blob/main/number_23.py)
-- [24. 같은 숫자는 싫어]()
+- [24. 같은 숫자는 싫어](https://github.com/SeokJu-Git/coding-test/blob/main/number_24.py)
