@@ -25,3 +25,4 @@
 - [23. 부족한 금액 계산하기](https://github.com/SeokJu-Git/coding-test/blob/main/number_23.py)
 - [24. 같은 숫자는 싫어](https://github.com/SeokJu-Git/coding-test/blob/main/number_24.py)
 - [25. 예산](https://github.com/SeokJu-Git/coding-test/blob/main/number_25.py)
+- [26. 나누어 떨어지는 숫자 배열]()
