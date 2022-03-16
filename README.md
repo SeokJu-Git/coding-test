@@ -26,4 +26,4 @@
 - [24. 같은 숫자는 싫어](https://github.com/SeokJu-Git/coding-test/blob/main/number_24.py)
 - [25. 예산](https://github.com/SeokJu-Git/coding-test/blob/main/number_25.py)
 - [26. 나누어 떨어지는 숫자 배열](https://github.com/SeokJu-Git/coding-test/blob/main/number_26.py)
-- [27. 없는 숫자 더하기]()
+- [27. 없는 숫자 더하기](https://github.com/SeokJu-Git/coding-test/blob/main/number_27.py)
