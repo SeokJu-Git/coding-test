@@ -23,3 +23,7 @@ numbers	            result
 - 입출력 예 #2
   1, 2, 3이 numbers에 없으므로, 1 + 2 + 3 = 6을 return 해야 합니다.
 '''
+
+def solution(numbers):
+    return sum([i+1 for i in range(9) if i+1 not in numbers])
+  
