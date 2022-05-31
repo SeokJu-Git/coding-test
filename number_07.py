@@ -32,3 +32,5 @@ def solution(x):
     sub = str(x)
     if x % sum([int(i) for i in sub]) == 0 : return True
     else : return False
+    
+    
